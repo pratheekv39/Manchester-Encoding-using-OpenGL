@@ -22,6 +22,6 @@ After installing it, follow the given steps:
      
   11) The output of the file is to be given dynamically ( i.e., on User Input, the Manchester signal is generated)
       
-      i) On pressing 0 from the keyboard, the signal level changes from positive to negative
+      i) On pressing 0 from the keyboard, the signal level changes from positive to negative.
 
-      ii) On pressing 1 from the keyboard, the signal level changes from negative to positive
+      ii) On pressing 1 from the keyboard, the signal level changes from negative to positive.
