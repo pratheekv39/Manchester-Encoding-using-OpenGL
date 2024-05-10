@@ -20,7 +20,7 @@ After installing it, follow the given steps:
 
        [Setting up OpenGL in Visual Studio 2022](https://youtu.be/PeeyWLzRWGg?si=5SRm5CczUR90dQLi)
      
-  11) The output of the file is to be given dynamically ( i.e., on User Input, the Polar NRZ-I signal is generated)
+  11) The output of the file is to be given dynamically ( i.e., on User Input, the Manchester signal is generated)
       
       i) On pressing 0 from the keyboard, the signal level changes from positive to negative
 
