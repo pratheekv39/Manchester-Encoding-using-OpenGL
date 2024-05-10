@@ -4,8 +4,8 @@ Here is the link to download Visual Studio 2022: (Note: Download Community versi
 [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/).
 
 After installing it, follow the given steps:
-  1) Create a new project
-  2) Select Empty Project
+  1) Create a new project.
+  2) Select Empty Project.
   3) Give any name to the project and create project.
   4) From the top navigation bar , select
 
